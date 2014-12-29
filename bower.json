@@ -1,0 +1,27 @@
+{
+  "name": "supplier",
+  "version": "0.0.1",
+  "homepage": "https://github.com/keuller/supplier",
+  "authors": [
+    "Keuller Magalhaes <keuller.magalhaes@gmail.com>"
+  ],
+  "description": "Proof of concept - Supplier App",
+  "main": "js/app/main.js",
+  "keywords": [
+    "unno",
+    "react",
+    "flux"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "unno": "~1.0.0"
+  }
+}
